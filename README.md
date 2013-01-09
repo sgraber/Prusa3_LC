@@ -40,7 +40,7 @@ New braces (2):
 How to obtain a laser cut frame
 ===============================
 
-I have provided three file types for people to use when laser cutting: dxf, eps, and pdf. Your local makerspace or laser cutting business should be able to utilize one of these three file formats to cut your frame and braces for you.
+I have provided three file types for people to use when laser cutting: dxf, eps, and pdf. Your local makerspace or laser cutting business should be able to utilize one of these three file formats to cut your frame and braces for you. "frame-6mm-colored-lines.dxf" has the lines colored for easier laser cutting: green=raster, yellow=1st cut, orange=2nd cut, brown=3rd cut, red=last cut.
 
 If you would prefer to purchase one of these frames and associated braces online, I will soon provide these parts on Ebay along with my printed parts, which conform to the latest versions found in the https://github.com/josefprusa/Prusa3/tree/jo-final/ branch. This way you can source most of what you need from one place: http://myworld.ebay.com/sbgraber
 
