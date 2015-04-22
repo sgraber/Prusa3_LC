@@ -19,7 +19,12 @@ This repository contains two different frame sizes: the Standard Single Sheet Fr
 Changed and New Parts
 =====================
 
-
+4/22/2015 - Fork by Thetazzbot
+Changes made by Thetazzbot:
+* Removed electronics mounting holes.  Double sided tape works better.
+* Resized the support wings so the entire arrangement fits a 24 inch by 16 inch panel so it can be
+  efficiently cut from a standard 4 foot by 8 foot sheet of material.
+  
 Changes to the stock Prusa i3 frame:
 
 * Screw hole size increased from 2.5mm to 3.5mm to allow for either 3mm or 6-32 SAE screws
